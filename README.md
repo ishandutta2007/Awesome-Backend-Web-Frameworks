@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,25 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global cloud Platform-as-a-Service (PaaS) and backend hosting ecosystem is estimated at approximately $140B–$170B in 2025–2026, expanding at a CAGR of 16–18% driven by containerized workloads, async APIs, and AI microservices. The sector exhibits moderate-to-high fragmentation: while hyperscalers (AWS, Azure, GCP) anchor enterprise cloud infrastructure, developer-centric backend PaaS is contested between mature ecosystem stalwarts (Salesforce Heroku) and high-growth, modern developer-experience platforms (Render, Railway, and framework-specialized offerings like FastAPI Cloud).
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[FastAPI Cloud](https://fastapi.tiangolo.com/)**  
-
-  Managed deployment platform for FastAPI applications from the framework's creator. Features **zero-config deployment**, **automatic scaling**, and **OpenAPI-native** integration.
-
-
-
-- **[Django hosting providers](https://www.djangoproject.com/)**  
-
-  Managed Django hosting from providers including **Heroku**, **Railway**, and **Render** with **automatic deployments**, **database management**, and **scaling**.
-
-
-
-- **[Litestar Cloud](https://litestar.dev/)**  
-
-  Managed hosting for Litestar applications with **automatic scaling**, **observability**, and **deployment automation**.
+| Platform | Company Size (Valuation / Revenue) | Starting Paid Tier Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Heroku](https://www.heroku.com/)** | ~$200M+ ARR (Acquired by Salesforce for $212M; Salesforce parent market cap ~$300B+) | $5.00/month (Eco dynos pool) / $7.00/month (Basic dynos) | 30-day trial with credit card verification for eligible programs / No permanent free tier (free dynos retired; requires minimum $5/mo Eco plan with 1,000 pooled hours, sleeps after 30 min idle) | Pioneer PaaS platform providing managed Django, Flask, and Python application runtimes with automated git deployments and managed Postgres. |
+| **[Render](https://render.com/)** | $1.5B valuation (~$25M+ ARR, $100M+ Series C) | $7.00/month (Starter instance, 512MB RAM, 0.5 CPU) | Free forever Hobby plan: 750 free instance hours/month, 512MB RAM, 0.1 CPU, 5GB bandwidth/mo, sleeps after 15 min of inactivity (cold start 30–60s); free PostgreSQL database expires after 30 days | Modern cloud platform offering automated builds, background workers, zero-downtime deploys, and managed databases for Python web backends. |
+| **[Railway](https://railway.com/)** | ~$120M total venture funding raised (Series B backed by Redpoint) | $5.00/month (Hobby plan base platform fee + usage overages) | Free plan with $1.00/month ongoing non-rollover usage credits (1 vCPU, 0.5GB RAM per service, 1 replica, 3-day logs) + 30-day $5 one-time new account trial credit without credit card | Instant-deploy PaaS for containerized Python backend services and microservices with automatic PR staging environments. |
+| **[FastAPI Cloud](https://fastapicloud.com/)** | Venture-backed (Sequoia Capital backed seed/Series A; valuation undisclosed) | $20.00/month per seat (Pro beta plan) | Free forever Hobby plan: 3 apps, 1 custom domain, 0.1 CPU / 512MB RAM (burst to 0.5 CPU), max 2 replicas with scale-to-zero, 1-day log retention, no credit card required | Managed deployment platform built specifically for FastAPI applications with zero-config deploys and OpenAPI-native integration. |
 
 
 
