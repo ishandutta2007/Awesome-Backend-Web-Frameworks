@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Backend-Web-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Backend-Web-Frameworks?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Backend-Web-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Backend-Web-Frameworks?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Backend-Web-Frameworks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Backend-Web-Frameworks?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Backend-Web-Frameworks/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Backend-Web-Frameworks?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Backend-Web-Frameworks/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" /></a>
@@ -65,91 +65,91 @@ Managed cloud environments provide zero-downtime deployment pipelines, automatic
 
 Curated list of the most popular and battle-tested open-source backend web frameworks, async toolkits, and HTTP servers. **Sorted in descending order by GitHub stargazers.**
 
-- **[FastAPI](https://github.com/fastapi/fastapi)** [![GitHub stars](https://img.shields.io/github/stars/fastapi/fastapi?style=social&color=white)](https://github.com/fastapi/fastapi/stargazers)  
+- **[FastAPI](https://github.com/fastapi/fastapi)** [![GitHub_Stars](https://img.shields.io/github/stars/fastapi/fastapi?style=social&color=white)](https://github.com/fastapi/fastapi/stargazers)  
   ⚡ **High-performance, easy to learn, fast to code, ready for production Python web framework** (MIT) • **The de facto industry standard for Python backends in 2026** • Core features include Pydantic-driven automatic data validation, native dependency injection (`Depends`), and auto-generated Swagger UI / ReDoc interactive documentation.
 
-- **[Django](https://github.com/django/django)** [![GitHub stars](https://img.shields.io/github/stars/django/django?style=social&color=white)](https://github.com/django/django/stargazers)  
+- **[Django](https://github.com/django/django)** [![GitHub_Stars](https://img.shields.io/github/stars/django/django?style=social&color=white)](https://github.com/django/django/stargazers)  
   🛡️ **The web framework for perfectionists with deadlines** (BSD-3-Clause) • Batteries-included full-stack framework offering an enterprise-grade ORM, automatic admin interface, rock-solid migrations, robust authentication, and growing ASGI support.
 
-- **[Flask](https://github.com/pallets/flask)** [![GitHub stars](https://img.shields.io/github/stars/pallets/flask?style=social&color=white)](https://github.com/pallets/flask/stargazers)  
+- **[Flask](https://github.com/pallets/flask)** [![GitHub_Stars](https://img.shields.io/github/stars/pallets/flask?style=social&color=white)](https://github.com/pallets/flask/stargazers)  
   🧪 **The Python micro-framework for building web applications** (BSD-3-Clause) • The original lightweight microframework with an elegant WSGI design, flexible extension ecosystem, and Jinja2 templating—ideal for microservices, prototypes, and customized stacks.
 
-- **[Django REST Framework](https://github.com/encode/django-rest-framework)** [![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework?style=social&color=white)](https://github.com/encode/django-rest-framework/stargazers)  
+- **[Django REST Framework](https://github.com/encode/django-rest-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/encode/django-rest-framework?style=social&color=white)](https://github.com/encode/django-rest-framework/stargazers)  
   📦 **The most widely used toolkit for building Web APIs with Django** (BSD-3-Clause) • Delivers class-based views, serializers, browsable web APIs, customizable authentication, and granular permission systems for enterprise backend services.
 
-- **[Pydantic](https://github.com/pydantic/pydantic)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic?style=social&color=white)](https://github.com/pydantic/pydantic/stargazers)  
+- **[Pydantic](https://github.com/pydantic/pydantic)** [![GitHub_Stars](https://img.shields.io/github/stars/pydantic/pydantic?style=social&color=white)](https://github.com/pydantic/pydantic/stargazers)  
   🔍 **Data validation using Python type hints** (MIT) • Powered by a Rust core (`pydantic-core`), it provides blazing-fast data parsing, schema enforcement, and JSON serialization powering modern async frameworks.
 
-- **[Tornado](https://github.com/tornadoweb/tornado)** [![GitHub stars](https://img.shields.io/github/stars/tornadoweb/tornado?style=social&color=white)](https://github.com/tornadoweb/tornado/stargazers)  
+- **[Tornado](https://github.com/tornadoweb/tornado)** [![GitHub_Stars](https://img.shields.io/github/stars/tornadoweb/tornado?style=social&color=white)](https://github.com/tornadoweb/tornado/stargazers)  
   🌪️ **Python web framework and asynchronous networking library** (Apache-2.0) • The pioneer of non-blocking I/O in Python; handles tens of thousands of open connections and long-polling/WebSockets with ease.
 
-- **[Typer](https://github.com/tiangolo/typer)** [![GitHub stars](https://img.shields.io/github/stars/tiangolo/typer?style=social&color=white)](https://github.com/tiangolo/typer/stargazers)  
+- **[Typer](https://github.com/tiangolo/typer)** [![GitHub_Stars](https://img.shields.io/github/stars/tiangolo/typer?style=social&color=white)](https://github.com/tiangolo/typer/stargazers)  
   💻 **FastAPI for CLI applications** (MIT) • Built by the creator of FastAPI, leveraging Python type hints to build intuitive and self-documenting command-line backends and utility scripts.
 
-- **[Sanic](https://github.com/sanic-org/sanic)** [![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic?style=social&color=white)](https://github.com/sanic-org/sanic/stargazers)  
+- **[Sanic](https://github.com/sanic-org/sanic)** [![GitHub_Stars](https://img.shields.io/github/stars/sanic-org/sanic?style=social&color=white)](https://github.com/sanic-org/sanic/stargazers)  
   🚀 **Async Python 3.8+ web server and framework built to go fast** (MIT) • Offers native async/await request handling, high throughput, built-in TLS, streaming handlers, and websockets.
 
-- **[SQLModel](https://github.com/fastapi/sqlmodel)** [![GitHub stars](https://img.shields.io/github/stars/fastapi/sqlmodel?style=social&color=white)](https://github.com/fastapi/sqlmodel/stargazers)  
+- **[SQLModel](https://github.com/fastapi/sqlmodel)** [![GitHub_Stars](https://img.shields.io/github/stars/fastapi/sqlmodel?style=social&color=white)](https://github.com/fastapi/sqlmodel/stargazers)  
   🗄️ **Designed for seamless integration with FastAPI and SQLAlchemy** (MIT) • Combines SQLAlchemy and Pydantic into a single intuitive interface to eliminate redundant schema code for backend databases.
 
-- **[AIOHTTP](https://github.com/aio-libs/aiohttp)** [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp?style=social&color=white)](https://github.com/aio-libs/aiohttp/stargazers)  
+- **[AIOHTTP](https://github.com/aio-libs/aiohttp)** [![GitHub_Stars](https://img.shields.io/github/stars/aio-libs/aiohttp?style=social&color=white)](https://github.com/aio-libs/aiohttp/stargazers)  
   🌐 **Asynchronous HTTP client/server for asyncio and Python** (Apache-2.0) • High-speed asynchronous server and client handling WebSockets, HTTP requests, and server-sent events (SSE).
 
-- **[Starlette](https://github.com/encode/starlette)** [![GitHub stars](https://img.shields.io/github/stars/encode/starlette?style=social&color=white)](https://github.com/encode/starlette/stargazers)  
+- **[Starlette](https://github.com/encode/starlette)** [![GitHub_Stars](https://img.shields.io/github/stars/encode/starlette?style=social&color=white)](https://github.com/encode/starlette/stargazers)  
   ✨ **The little ASGI framework that shines** (BSD-3-Clause) • Foundational ASGI toolkit powering FastAPI; provides routing, middleware, test client, sessions, CORS, static files, and WebSocket support.
 
-- **[Uvicorn](https://github.com/encode/uvicorn)** [![GitHub stars](https://img.shields.io/github/stars/encode/uvicorn?style=social&color=white)](https://github.com/encode/uvicorn/stargazers)  
+- **[Uvicorn](https://github.com/encode/uvicorn)** [![GitHub_Stars](https://img.shields.io/github/stars/encode/uvicorn?style=social&color=white)](https://github.com/encode/uvicorn/stargazers)  
   🦄 **The lightning-fast ASGI server implementation** (BSD-3-Clause) • Standard production ASGI server built on `uvloop` and `httptools` powering modern asynchronous Python applications.
 
-- **[Gunicorn](https://github.com/benoitc/gunicorn)** [![GitHub stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social&color=white)](https://github.com/benoitc/gunicorn/stargazers)  
+- **[Gunicorn](https://github.com/benoitc/gunicorn)** [![GitHub_Stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social&color=white)](https://github.com/benoitc/gunicorn/stargazers)  
   ⚙️ **WSGI HTTP Server for UNIX** (MIT) • Battle-tested pre-fork worker model web server for running synchronous and async worker process pools in production environments.
 
-- **[Falcon](https://github.com/falconry/falcon)** [![GitHub stars](https://img.shields.io/github/stars/falconry/falcon?style=social&color=white)](https://github.com/falconry/falcon/stargazers)  
+- **[Falcon](https://github.com/falconry/falcon)** [![GitHub_Stars](https://img.shields.io/github/stars/falconry/falcon?style=social&color=white)](https://github.com/falconry/falcon/stargazers)  
   🦅 **The minimalist REST and app backend framework** (Apache-2.0) • Bare-metal reliability, low overhead, and Cython-optimized routing designed for microservices and critical API layers.
 
-- **[Bottle](https://github.com/bottlepy/bottle)** [![GitHub stars](https://img.shields.io/github/stars/bottlepy/bottle?style=social&color=white)](https://github.com/bottlepy/bottle/stargazers)  
+- **[Bottle](https://github.com/bottlepy/bottle)** [![GitHub_Stars](https://img.shields.io/github/stars/bottlepy/bottle?style=social&color=white)](https://github.com/bottlepy/bottle/stargazers)  
   🍾 **Fast and simple WSGI micro web-framework** (MIT) • Distributed as a single file with zero external dependencies other than the Python standard library.
 
-- **[Litestar](https://github.com/litestar-org/litestar)** [![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar?style=social&color=white)](https://github.com/litestar-org/litestar/stargazers)  
+- **[Litestar](https://github.com/litestar-org/litestar)** [![GitHub_Stars](https://img.shields.io/github/stars/litestar-org/litestar?style=social&color=white)](https://github.com/litestar-org/litestar/stargazers)  
   🌟 **Production-ready, high-performance ASGI framework with msgspec-first support** (MIT) • Features controller-based class routing, native OpenAPI 3.1, dependency injection, and benchmarks of up to 1.2M req/sec.
 
-- **[Robyn](https://github.com/sparckles/robyn)** [![GitHub stars](https://img.shields.io/github/stars/sparckles/robyn?style=social&color=white)](https://github.com/sparckles/robyn/stargazers)  
+- **[Robyn](https://github.com/sparckles/robyn)** [![GitHub_Stars](https://img.shields.io/github/stars/sparckles/robyn?style=social&color=white)](https://github.com/sparckles/robyn/stargazers)  
   🦀 **Fast, community-driven web framework with a Rust runtime** (BSD-3-Clause) • Multi-threaded async engine with a Rust HTTP server under the hood for zero-overhead Python backends.
 
-- **[Hug](https://github.com/hugapi/hug)** [![GitHub stars](https://img.shields.io/github/stars/hugapi/hug?style=social&color=white)](https://github.com/hugapi/hug/stargazers)  
+- **[Hug](https://github.com/hugapi/hug)** [![GitHub_Stars](https://img.shields.io/github/stars/hugapi/hug?style=social&color=white)](https://github.com/hugapi/hug/stargazers)  
   🤗 **Develop APIs as fast and cleanly as possible** (MIT) • Exposes Python logic simultaneously across HTTP, CLI, and local module imports with automatic type validation.
 
-- **[Granian](https://github.com/emmett-framework/granian)** [![GitHub stars](https://img.shields.io/github/stars/emmett-framework/granian?style=social&color=white)](https://github.com/emmett-framework/granian/stargazers)  
+- **[Granian](https://github.com/emmett-framework/granian)** [![GitHub_Stars](https://img.shields.io/github/stars/emmett-framework/granian?style=social&color=white)](https://github.com/emmett-framework/granian/stargazers)  
   🏎️ **A Rust HTTP server for Python applications** (BSD-3-Clause) • Outperforms traditional ASGI/WSGI servers by 1.5–2× using the Hyper HTTP library and Rust Tokio runtime.
 
-- **[Vibora](https://github.com/vibora-io/vibora)** [![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora?style=social&color=white)](https://github.com/vibora-io/vibora/stargazers)  
+- **[Vibora](https://github.com/vibora-io/vibora)** [![GitHub_Stars](https://img.shields.io/github/stars/vibora-io/vibora?style=social&color=white)](https://github.com/vibora-io/vibora/stargazers)  
   🐍 **Fast, asynchronous and elegant Python 3.6+ HTTP client/server framework** (Apache-2.0) • Cython-enhanced async framework designed for raw I/O throughput.
 
-- **[msgspec](https://github.com/jcrist/msgspec)** [![GitHub stars](https://img.shields.io/github/stars/jcrist/msgspec?style=social&color=white)](https://github.com/jcrist/msgspec/stargazers)  
+- **[msgspec](https://github.com/jcrist/msgspec)** [![GitHub_Stars](https://img.shields.io/github/stars/jcrist/msgspec?style=social&color=white)](https://github.com/jcrist/msgspec/stargazers)  
   ⚡ **A fast serialization and validation library with JSON, MessagePack, YAML, and TOML support** (BSD-3-Clause) • Up to 10× faster than standard libraries and 2–4× faster than Pydantic.
 
-- **[Pyramid](https://github.com/Pylons/pyramid)** [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid?style=social&color=white)](https://github.com/Pylons/pyramid/stargazers)  
+- **[Pyramid](https://github.com/Pylons/pyramid)** [![GitHub_Stars](https://img.shields.io/github/stars/Pylons/pyramid?style=social&color=white)](https://github.com/Pylons/pyramid/stargazers)  
   🔺 **A small, fast, down-to-earth Python web framework** (BSD-3-Clause) • Highly modular architecture allowing applications to start as a single-file prototype and scale up to complex multi-tenant systems.
 
-- **[Quart](https://github.com/pallets/quart)** [![GitHub stars](https://img.shields.io/github/stars/pallets/quart?style=social&color=white)](https://github.com/pallets/quart/stargazers)  
+- **[Quart](https://github.com/pallets/quart)** [![GitHub_Stars](https://img.shields.io/github/stars/pallets/quart?style=social&color=white)](https://github.com/pallets/quart/stargazers)  
   🔄 **An ASGI web microframework whose API is a superset of Flask** (MIT) • The seamless migration path from Flask to async, supporting WebSockets, HTTP/2, and async Jinja templating.
 
-- **[Responder](https://github.com/kennethreitz/responder)** [![GitHub stars](https://img.shields.io/github/stars/kennethreitz/responder?style=social&color=white)](https://github.com/kennethreitz/responder/stargazers)  
+- **[Responder](https://github.com/kennethreitz/responder)** [![GitHub_Stars](https://img.shields.io/github/stars/kennethreitz/responder?style=social&color=white)](https://github.com/kennethreitz/responder/stargazers)  
   📡 **A familiar HTTP Service Framework for Python** (Apache-2.0) • Combines Falcon and Starlette routing with requests-like ergonomics for modern API development.
 
-- **[BlackSheep](https://github.com/Neoteroi/BlackSheep)** [![GitHub stars](https://img.shields.io/github/stars/Neoteroi/BlackSheep?style=social&color=white)](https://github.com/Neoteroi/BlackSheep/stargazers)  
+- **[BlackSheep](https://github.com/Neoteroi/BlackSheep)** [![GitHub_Stars](https://img.shields.io/github/stars/Neoteroi/BlackSheep?style=social&color=white)](https://github.com/Neoteroi/BlackSheep/stargazers)  
   🐑 **Fast ASGI web framework inspired by Flask and ASP.NET Core** (MIT) • Features built-in dependency injection, automatic OpenAPI generation, and authentication handlers.
 
-- **[Masonite](https://github.com/MasoniteFramework/masonite)** [![GitHub stars](https://img.shields.io/github/stars/MasoniteFramework/masonite?style=social&color=white)](https://github.com/MasoniteFramework/masonite/stargazers)  
+- **[Masonite](https://github.com/MasoniteFramework/masonite)** [![GitHub_Stars](https://img.shields.io/github/stars/MasoniteFramework/masonite?style=social&color=white)](https://github.com/MasoniteFramework/masonite/stargazers)  
   🧱 **Modern and developer-centric Python web framework** (MIT) • Laravel-inspired MVC framework for Python with active-record ORM, IOC container, migrations, and CLI generators.
 
-- **[CherryPy](https://github.com/cherrypy/cherrypy)** [![GitHub stars](https://img.shields.io/github/stars/cherrypy/cherrypy?style=social&color=white)](https://github.com/cherrypy/cherrypy/stargazers)  
+- **[CherryPy](https://github.com/cherrypy/cherrypy)** [![GitHub_Stars](https://img.shields.io/github/stars/cherrypy/cherrypy?style=social&color=white)](https://github.com/cherrypy/cherrypy/stargazers)  
   🍒 **Object-Oriented HTTP Framework** (BSD-3-Clause) • One of the original Python web frameworks, allowing web applications to be developed in pure object-oriented Python.
 
-- **[Emmett](https://github.com/emmett-framework/emmett)** [![GitHub stars](https://img.shields.io/github/stars/emmett-framework/emmett?style=social&color=white)](https://github.com/emmett-framework/emmett/stargazers)  
+- **[Emmett](https://github.com/emmett-framework/emmett)** [![GitHub_Stars](https://img.shields.io/github/stars/emmett-framework/emmett?style=social&color=white)](https://github.com/emmett-framework/emmett/stargazers)  
   💎 **Full-stack Python web framework designed with simplicity in mind** (BSD-3-Clause) • Clean syntax, built-in ORM, auth system, templates, and seamless Granian integration.
 
-- **[TurboGears](https://github.com/TurboGears/tg2)** [![GitHub stars](https://img.shields.io/github/stars/TurboGears/tg2?style=social&color=white)](https://github.com/TurboGears/tg2/stargazers)  
+- **[TurboGears](https://github.com/TurboGears/tg2)** [![GitHub_Stars](https://img.shields.io/github/stars/TurboGears/tg2?style=social&color=white)](https://github.com/TurboGears/tg2/stargazers)  
   ⚙️ **Full-stack Web Framework that scales from micro to mega** (MIT) • Combines SQLAlchemy, Ming, and multiple template engines into an adaptable architecture.
 
 ---
@@ -181,7 +181,7 @@ Contributions are welcome and appreciated! To maintain high community standards:
 
 1. 🍴 **Fork the repository**.
 2. ✍️ **Add or edit entries** in `README.md` following the established format and star-sorted order.
-3. 📝 **Include essential details**: Framework/product name, repository link, star badge, license, and a concise 1–2 sentence description of key features and differentiators.
+3. 📝 **Include essential details**: Framework/product name, repository link, Stars_Badge, license, and a concise 1–2 sentence description of key features and differentiators.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
